@@ -2,7 +2,7 @@ PyYAML==3.11
 cached-property==1.2.0
 docker-py==1.7.0
 dockerpty==0.4.1
-docopt==0.6.1
+docopt==0.6.2
 enum34==1.0.4
 jsonschema==2.5.1
 texttable==0.8.4
